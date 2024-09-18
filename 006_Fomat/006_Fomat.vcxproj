@@ -24,6 +24,7 @@
     <ProjectGuid>{6b76832f-c27a-4c27-9c69-01eaccbc1ab2}</ProjectGuid>
     <RootNamespace>My006Fomat</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>006_Format</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

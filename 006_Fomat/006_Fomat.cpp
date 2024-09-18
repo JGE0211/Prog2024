@@ -1,6 +1,4 @@
-﻿// 006_Fomat.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
-//
-
+﻿
 #include <stdio.h>
 
 int main()
@@ -12,7 +10,7 @@ int main()
     printf("%f\n", 3.14);
     printf("%.2f\n", 3.14);
 
-    //%c : 문자하나
+    //%c : 문자 하나
     printf("%c %c %c\n", 'a', 'b', 'c');
 
     //%s : 문자열
@@ -21,6 +19,6 @@ int main()
     printf("%8s %5d\n", "안녕", 123);
     printf("%d%%\n", 100);
     printf("100%%\n");
-    printf("\"안녕\"이라고 말하지마");
+    printf("\"안녕\"이라고 말하지마\n");
 }
 

@@ -24,6 +24,7 @@
     <ProjectGuid>{6bb0fd9e-933c-44ea-b1c1-cf7617c1d9f4}</ProjectGuid>
     <RootNamespace>My015relationalOp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>015_RelationalOp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
